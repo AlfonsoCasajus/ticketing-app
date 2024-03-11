@@ -1,3 +1,14 @@
+# Ticketing APP
+
+Aplicacion basica para administrar tickets.
+
+Principales tecnologias utilizadas:
+
+* Next.js
+* Tailwind.js
+* MongoDb
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
